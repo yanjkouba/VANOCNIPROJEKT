@@ -1,0 +1,15 @@
+CZ: Hra začne po stistnuti tlačítka NEW DEAL poté si vyberete karty a zmáčknete SECOND DEAL, skóre se připočte podle ruky (hand) na hoře je INFO: které ukazuje jakou ruku uživatel zahrál.
+
+Total score je celkové skóre dohromady, pokud byste chtěli resetovat skóre, v levém horním rohu je záložka GAME ve které je NEW GAME, které se zmáčkne po úplném ukončení dealu, poté CLEAR SCORES, které resetuje všechno skóre a EXIT, které hru vypne.
+
+
+
+
+ENG: The game starts after pressing the NEW DEAL button, then you select cards and press SECOND DEAL, the score is added according to the hand (hand) on the top is INFO: which shows which hand the user played.
+
+Total score is the total score together, if you would like to reset the score, in the upper left corner there is a GAME tab in which there is NEW GAME, which is pressed after the deal is completely finished, then CLEAR SCORES, which resets all scores and EXIT, which turns off the game.
+
+
+
+
+Litvínovština (Pro Lukáše): Hej more dyk karty gamble jedem prodělat všechny cashe víš jak.
